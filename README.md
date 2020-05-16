@@ -1,4 +1,4 @@
-# flutteralgorithm
+# flutter_algorithm
 
 A new Flutter application.
 
